@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\PhanNgocKimCuong-HW06\PhanNgocKimCuong-HW06\obj\Debug\PhanNgocKimCuong-HW06.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\PhanNgocKimCuong-HW06\PhanNgocKimCuong-HW06\obj\Debug\PhanNgocKimCuong-HW06.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PhanNgocKimCuong-HW06\PhanNgocKimCuong-HW06\bin\Debug\PhanNgocKimCuong-HW06.exe.config
+C:\Users\Admin\source\repos\PhanNgocKimCuong-HW06\PhanNgocKimCuong-HW06\bin\Debug\PhanNgocKimCuong-HW06.exe
+C:\Users\Admin\source\repos\PhanNgocKimCuong-HW06\PhanNgocKimCuong-HW06\bin\Debug\PhanNgocKimCuong-HW06.pdb
+C:\Users\Admin\source\repos\PhanNgocKimCuong-HW06\PhanNgocKimCuong-HW06\obj\Debug\PhanNgocKimCuong-HW06.exe
+C:\Users\Admin\source\repos\PhanNgocKimCuong-HW06\PhanNgocKimCuong-HW06\obj\Debug\PhanNgocKimCuong-HW06.pdb
